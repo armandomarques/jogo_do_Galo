@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_111-b14 (Oracle Corporation)
+X-COMMENT: Main-Class will be added automatically by build
+Codebase: C:\Users\ph0en\Documents\NetBeansProjects\jogo_do_Galo\dist
+Application-Library-Allowable-Codebase: C:\Users\ph0en\Documents\NetBe
+ ansProjects\jogo_do_Galo\dist
+Caller-Allowable-Codebase: C:\Users\ph0en\Documents\NetBeansProjects\j
+ ogo_do_Galo\dist
+Permissions: sandbox
+Application-Name: jogo_do_Galo
+

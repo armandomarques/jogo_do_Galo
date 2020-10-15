@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="file:/C:/Users/ph0en/Documents/NetBeansProjects/jogo_do_Galo/dist/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>jogo_do_Galo</title>
+        <vendor>Armando Marques</vendor>
+        <homepage href=""/>
+        <description>jogo_do_Galo</description>
+        <description kind="short">jogo_do_Galo</description>
+        
+        
+    <offline-allowed/>
+</information>
+    <update check="background"/>
+    
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="jogo_do_Galo.jar" main="true"/>
+        
+        
+    </resources>
+    <application-desc main-class="jogo_do_Galo.jogodoGalo">
+        
+    </application-desc>
+</jnlp>
